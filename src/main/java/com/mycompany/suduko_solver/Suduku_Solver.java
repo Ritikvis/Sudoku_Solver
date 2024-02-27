@@ -12,10 +12,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Siddharth
- */
 public class Suduku_Solver extends javax.swing.JFrame {
     private String turn = "1";
     
