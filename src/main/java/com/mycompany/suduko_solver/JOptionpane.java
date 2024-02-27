@@ -4,10 +4,6 @@
  */
 package com.mycompany.suduko_solver;
 
-/**
- *
- * @author Siddharth
- */
 class JOptionpane {
 
     static int YES_NO_OPTION;
